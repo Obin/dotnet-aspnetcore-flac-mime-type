@@ -108,6 +108,7 @@ public class FileExtensionContentTypeProvider : IContentTypeProvider
                 { ".fdf", "application/vnd.fdf" },
                 { ".fif", "application/fractals" },
                 { ".fla", "application/octet-stream" },
+                { ".flac", "audio/flac" },
                 { ".flr", "x-world/x-vrml" },
                 { ".flv", "video/x-flv" },
                 { ".gif", "image/gif" },
